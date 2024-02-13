@@ -2,3 +2,5 @@
 Participants:
 * Richard Miikael Jaks
 * Fedir Kyrychenko
+
+First assignment temporary participant: Abdul Rashid
