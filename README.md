@@ -4,3 +4,5 @@ Participants:
 * Fedir Kyrychenko
 
 First assignment temporary participant: Abdul Rashid
+
+Second lecture temporary participant: Jian Zhang
