@@ -1,7 +1,7 @@
 
 # Module 1 Contract
 
-**Student Name(s):** Fedir Kyrychenko, Richard Miikael Jaks
+**Student Name(s):** Fedir Kyrychenko, Richard Miikael Jaks, Jian Zhang
 
 ## Agreement:
 As students in this class, we agree to fulfill and present the results of the following tasks:

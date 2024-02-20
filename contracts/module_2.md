@@ -1,5 +1,5 @@
 
-**Student's Name(s):** Fedir Kyrychenko, Richard Miikael Jaks
+**Student's Name(s):** Fedir Kyrychenko, Richard Miikael Jaks, Jian Zhang
 
 **Agreement:**
 
